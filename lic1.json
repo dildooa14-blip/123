@@ -1,8 +1,8 @@
 {
     "users": [
         {
-            "login": "necatisoff",
-            "license_key": "poshelnahui",
+            "login": "1",
+            "license_key": "1",
             "expires": "2099-12-31"
         },
         {
@@ -12,3 +12,4 @@
         }
     ]
 }
+
