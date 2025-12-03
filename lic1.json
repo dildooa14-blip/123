@@ -1,15 +1,14 @@
 {
-"users": [
-{
-"login": "necatisoff",
-"license_key": "poshelnahui",
-"expires": "2099-12-31"
-},
-{
-"login": "xdwduser",
-"license_key": "Lose_Weight",
-"expires": "2025-12-31"
-
-}
-]
+    "users": [
+        {
+            "login": "necatisoff",
+            "license_key": "poshelnahui",
+            "expires": "2099-12-31"
+        },
+        {
+            "login": "xdwduser",
+            "license_key": "Lose_Weight",
+            "expires": "2025-12-31"
+        }
+    ]
 }
