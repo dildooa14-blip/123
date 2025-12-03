@@ -1,1 +1,21 @@
+{
+    "users": [
+        {
+            "login": "1",
+            "license_key": "1",
+            "expires": "2099-12-31"
+        },
+        {
+            "login": "xdwduser",
+            "license_key": "Lose_Weight",
+            "expires": "2025-12-31"
+
+           {
+            "login": "123",
+            "license_key": "123",
+            "expires": "2025-12-31"
+        }
+    ]
+}
+
 
